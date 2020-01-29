@@ -23,7 +23,7 @@ Steps for Executing the program:
 
 ●	Open the folder named QantasWeatherAPIs.
 
-●	Right click on ExecuteWeatherAPIs.ps1 file which is located inside QantasWeatherAPIs folder->Run with Powershell
+●	Right click on ExecuteWeatherAPIs.ps1 file which is located inside project folder->Run with Powershell
 
 
 ●	You will get message as Press enter to accept default value -33.925500 or please enter desired latitude. If you want to provide a specific location latitude you can provide it and API output will be based on provided latitude. If you do not want to provide any latitude and want to let the code take the defaulted latitude -33.925500, then just  press enter.
